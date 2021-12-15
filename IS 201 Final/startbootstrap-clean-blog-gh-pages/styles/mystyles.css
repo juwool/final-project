@@ -1,0 +1,72 @@
+/* Julia Woolley 12/14/21 */
+
+.sectiontext{
+    font-family: calibri;
+    font-size: 30px;
+}
+.a123 {
+    color:rgb(159, 198, 243);
+    text-decoration: none;
+  }
+a:hover {
+    color: rgb(159, 198, 243);
+    text-decoration: underline;
+}
+.newheading{
+    color:thistle;
+}
+.heading2{
+    font-family: calibri;
+    font-size: 26px;
+}
+.abody{
+    color:black
+    text-decoration: none;
+}
+a:hover{
+    color:rgb(159, 198, 243);
+    text-decoration: underline;
+}
+.anchors{
+    color: black;
+    text-align: center;
+    font-size: 18px;
+}
+.contact{
+    text-align: center;
+    font-size:small;
+    color:grey;
+}
+.tableau {
+    background-color: rgb(159, 198, 243);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+h1{
+    color:white;
+}
+.headingtab{
+    float: right;
+}
+.bigheading{
+    text-align: center;
+}
+.body{
+    top: 114px;
+    left: 10px;
+    width: 200px;
+    bottom: 64px;
+    z-index: 1;
+    padding-top:45px;
+    border-right: solid 1px #555555;}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+.littleline{
+    font-style:bold;
+    font-size:12px;
+    color:black;
+    text-decoration: none;
+}
